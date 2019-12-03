@@ -4,4 +4,6 @@
 
 ### Links
 
-[Link to Grid assignment](https://nbenin.github.io/challenge-bootstrap/)
+[Link to Grid assignment](https://nbenin.github.io/challenge-bootstrap/grid)
+
+[Link to Carousel assignment](https://nbenin.github.io/challenge-bootstrap/carousel)
